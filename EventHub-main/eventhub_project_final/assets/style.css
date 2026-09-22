@@ -1,0 +1,105 @@
+body{
+    background:#f8f9ff;
+    font-family:'Segoe UI',sans-serif;
+}
+.navbar{
+    background:#4c1d95;
+}
+.navbar-brand,.nav-link{
+    color:#fff!important;
+    font-weight:500;
+}
+.navbar .btn-login{
+    background:#ffffff;
+    color:#4c1d95;
+    border-radius:8px;
+    padding:6px 16px;
+    border:none;
+    font-weight:600;
+}
+.navbar .btn-signup{
+    border-radius:8px;
+    padding:6px 16px;
+    border:1px solid #ffffff;
+    color:#ffffff;
+    font-weight:600;
+}
+.hero{
+    background:#4c1d95;
+    padding:80px 20px;
+    text-align:center;
+    color:#ffffff;
+    border-radius:0 0 32px 32px;
+}
+.hero h1{
+    font-size:40px;
+    font-weight:700;
+}
+.hero p{
+    font-size:18px;
+    opacity:.95;
+}
+.btn-main{
+    background:#ffffff;
+    color:#4c1d95;
+    border-radius:10px;
+    padding:10px 24px;
+    font-weight:600;
+    border:none;
+}
+.btn-main-outline{
+    background:transparent;
+    color:#4c1d95;
+    border-radius:10px;
+    padding:8px 18px;
+    font-weight:600;
+    border:1px solid #4c1d95;
+}
+.card{
+    border:none;
+    border-radius:16px;
+    box-shadow:0 4px 20px rgba(0,0,0,.05);
+}
+.card img{
+    border-radius:16px 16px 0 0;
+    height:180px;
+    object-fit:cover;
+}
+.card-title{
+    color:#4c1d95;
+    font-weight:700;
+}
+.page-title{
+    color:#4c1d95;
+    font-weight:700;
+}
+.footer{
+    background:#4c1d95;
+    color:#ffffff;
+    padding:24px 16px;
+    margin-top:60px;
+    text-align:center;
+}
+.table-purple thead{
+    background:#4c1d95;
+    color:#ffffff;
+}
+.badge-status{
+    background:#4c1d95;
+}
+a.footer-link{
+    color:#ffffff;
+    text-decoration:none;
+    margin:0 8px;
+    font-size:14px;
+}
+a.footer-link:hover{
+    text-decoration:underline;
+}
+.search-bar{
+    background:#ffffff;
+    padding:16px;
+    border-radius:16px;
+    box-shadow:0 4px 14px rgba(0,0,0,.04);
+    margin-bottom:20px;
+}
